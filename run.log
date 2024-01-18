@@ -1,0 +1,10 @@
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+DEBUG - Compile success - Out: 
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+DEBUG - Compile success - Out: 
+DEBUG - Run success - Out: 5
+
+INFO - Clean
+INFO - END
