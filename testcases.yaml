@@ -1,0 +1,13 @@
+pat:
+  "1011":
+    - input: |
+        4
+        1 2 3
+        2 3 4
+        2147483647 0 2147483646
+        0 -2147483648 -2147483647
+      output: |
+        Case #1: false
+        Case #2: true
+        Case #3: true
+        Case #4: false

@@ -8,3 +8,96 @@ DEBUG - Run success - Out: 5
 
 INFO - Clean
 INFO - END
+INFO - START
+INFO - Path: ./pat/1011_abc.cpp - Command: run - Input: 1
+DEBUG - Compile success - Out: 
+DEBUG - Run success - Out: Case #0: ture
+INFO - Clean
+INFO - END
+INFO - START
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+DEBUG - Compile success - Out: 
+DEBUG - Run success - Out: 5
+
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+DEBUG - Compile success - Out: 
+DEBUG - Run success - Out: 5
+
+INFO - Clean
+INFO - END
+INFO - START
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+DEBUG - Compile success - Out: 
+DEBUG - Run success - Out: 5
+
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+DEBUG - Compile success - Out: 
+DEBUG - Run success - Out: 5
+
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+DEBUG - Compile success - Out: 
+DEBUG - Run success - Out: 5
+
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+INFO - Clean
+INFO - END
+INFO - START
+INFO - START
+INFO - START
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+INFO - Clean
+INFO - END
+INFO - START
+INFO - START
+INFO - START
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Input: 3
+INFO - Clean
+INFO - END
+INFO - START
+INFO - START
+INFO - Path: ./pat/1001_3n.cpp - Command: run - Test: 0
+INFO - START
+INFO - Path: ./pat/1011_abc.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1011_abc.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1011_abc.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1011_abc.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1011_abc.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
