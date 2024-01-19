@@ -24,8 +24,8 @@ LOGGER.addHandler(ch)
 def parse():
     parser = argparse.ArgumentParser(description="script")
 
-    parser.add_argument("path", type=str, help="path")
     parser.add_argument("command", type=str, help="command")
+    parser.add_argument("path", type=str, help="path")
     parser.add_argument("-t", "--test", type=int, nargs="*", default=[0], help="test case")
 
     args = parser.parse_args()
@@ -66,6 +66,8 @@ def runtest(command: list, file: str, testnum: int, Tests):
     rcode, out, err = run_process(command, input)
     if rcode != 0:
         LOGGER.debug("Run failed")
+        print("Err:")
+        print(err.decode())
         return
     if out.decode() == case["output"]:
         LOGGER.debug("Case %d Passed", testnum)

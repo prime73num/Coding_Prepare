@@ -101,3 +101,108 @@ INFO - Path: ./pat/1011_abc.cpp - Command: run - Test: 0
 DEBUG - Case 0 Passed
 INFO - Clean
 INFO - END
+INFO - START
+INFO - Path: ./pat/1016_ab.cpp - Command: run - Test: 0
+INFO - START
+INFO - Path: ./pat/1016_ab.cpp - Command: run - Test: 0
+INFO - START
+INFO - Path: ./pat/1016_ab.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - START
+INFO - Path: ./pat/1026.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1026.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1026.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1026.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1026.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1026.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1046.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1008.cpp - Command: run - Test: 0
+DEBUG - Run failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1008.cpp - Command: run - Test: 0
+DEBUG - Run failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1008.cpp - Command: run - Test: 0
+DEBUG - Run failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1008.cpp - Command: run - Test: 0
+DEBUG - Run failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1008.cpp - Command: run - Test: 0
+DEBUG - Run failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1008.cpp - Command: run - Test: 0
+DEBUG - Run failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1008.cpp - Command: run - Test: 0
+DEBUG - Run failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1008.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1008.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1012.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1012.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat/1012.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
