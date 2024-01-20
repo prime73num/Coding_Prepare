@@ -1,4 +1,4 @@
-pat:
+pat_basic:
   "1008": 
     - input: |
         6 2
@@ -34,4 +34,21 @@ pat:
         12 18 1 13
         4 16 12 15
       output: 1 2
+  "1018": 
+    - input: |
+        10
+        C J
+        J B
+        C B
+        B B
+        B C
+        C C
+        C B
+        J B
+        B C
+        J J
+      output: |
+        5 3 2
+        2 3 5
+        B B
 

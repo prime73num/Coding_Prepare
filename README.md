@@ -9,10 +9,12 @@
 - 001 two sums done 2024-01-14
 
 ## PAT Basic
-- 1001 3n+1
-- 1011 done 2024-01-19
-- 1016 done 
-- 1026 done
-- 1046 done
-- 1008 done
-- 1012 done 2024-01-19
+- Basic 1001 3n+1
+- Basic 1011 done 2024-01-19
+- Basic 1016 done 
+- Basic 1026 done
+- Basic 1046 done
+- Basic 1008 done
+- Basic 1012 done 2024-01-19
+- Basic 1018 done
+- 
