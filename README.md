@@ -21,3 +21,7 @@
 - Advanced 1046 done
 - Advanced 1065 done
 - Basic 1010 done 2024-01-20
+- Advanced 1002 done
+- Advanced 1009 done
+- Basic 1041 done
+- Basic 1004 done 2024-01-21
