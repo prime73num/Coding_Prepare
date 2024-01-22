@@ -75,6 +75,28 @@ pat_basic:
       output: |
         Mike CS991301
         Joe Math990112
+  "1028": 
+    - input: |
+        5
+        John 2001/05/12
+        Tom 1814/09/06
+        Ann 2121/01/30
+        James 1814/09/05
+        Steve 1967/11/20
+      output: 3 Tom John
+  "1032": 
+    - input: |
+        6
+        3 65
+        2 80
+        1 100
+        2 70
+        3 40
+        3 0
+      output: 2 150
+  "0000": 
+    - input: 
+      output:
 pat_advanced:
   "1042":
     - input: |
@@ -113,4 +135,30 @@ pat_advanced:
         2 1 2.4 0 3.2
         2 2 1.5 1 0.5
       output: 3 3 3.6 2 6.0 1 1.6
+  "1011": 
+    - input: |
+        1.1 2.5 1.7
+        1.2 3.1 1.6
+        4.1 1.2 1.1
+      output: T T W 39.31
+  "1006": 
+    - input: |
+        3
+        CS301111 15:30:28 17:00:10
+        SC3021234 08:00:00 11:25:25
+        CS301133 21:45:00 21:58:40
+      output: SC3021234 CS301133
+  "1036": 
+    - input: |
+        3
+        Joe M Math990112 89
+        Mike M CS991301 100
+        Mary F EE990830 95
+      output: |
+        Mary EE990830
+        Joe Math990112
+        6
+  "0000": 
+    - input: 
+      output:
 
