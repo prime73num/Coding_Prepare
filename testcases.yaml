@@ -94,6 +94,35 @@ pat_basic:
         3 40
         3 0
       output: 2 150
+  "1036": 
+    - input: 10 a
+      output: |
+        aaaaaaaaaa
+        a        a
+        a        a
+        a        a
+        aaaaaaaaaa
+  "1027": 
+    - input: 1 *
+      output: |
+        *
+        0
+    - input: 19 *
+      output: |
+        *****
+         ***
+          *
+         ***
+        *****
+        2
+  "1022": 
+    - input: 10 22 10
+      output: "32\n"
+    - input: 123 456 8
+      output: "1103\n"
+  "1037": 
+    - input: 10.16.27 14.1.28
+      output: 3.2.1
   "0000": 
     - input: 
       output:
@@ -158,6 +187,13 @@ pat_advanced:
         Mary EE990830
         Joe Math990112
         6
+  "1031": 
+    - input: helloworld!
+      output: |
+        h   !
+        e   d
+        l   l
+        lowor
   "0000": 
     - input: 
       output:

@@ -34,3 +34,9 @@
 - Advanced 1011 done
 - Advanced 1006 done
 - Advanced 1036 done 2024-01-22
+
+- Basic 1036 done
+- Basic 1027 done
+- Advanced 1031 done
+- Basic 1022 done
+- Basic 1037 done 2024-01-24
