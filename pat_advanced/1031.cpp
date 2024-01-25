@@ -1,9 +1,10 @@
 #include <cstdio>
 #include <cstring>
+#include <iostream>
 
 int main (int argc, char *argv[]) {
   char str[100];
-  gets(str);
+  std::cin.getline(str, 100);
   int N = strlen(str);
   int n1 = (N+2)/3;
   int n3 = n1;
