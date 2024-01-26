@@ -49,3 +49,8 @@
 - Basic 1002 done
 - Basic 1015 done
 - Advanced 1012 done 2024-01-25
+
+- Advanced 1016 not finished
+- Advanced 1025 done
+- Advanced 1028 done
+- Advanced 1055 done 2024-01-26
