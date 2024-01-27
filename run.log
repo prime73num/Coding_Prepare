@@ -873,3 +873,116 @@ INFO - Path: ./pat_advanced/1055.cpp - Command: run - Test: 0
 DEBUG - Case 0 Passed
 INFO - Clean
 INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1075.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1075.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1075.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1075.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1075.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1075.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1083.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1029.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1029.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1033.cpp - Command: run - Test: 0
+INFO - START
+INFO - Path: ./pat_basic/1033.cpp - Command: run - Test: 0
+INFO - START
+INFO - Path: ./pat_basic/1033.cpp - Command: run - Test: 0
+INFO - START
+INFO - Path: ./pat_basic/1033.cpp - Command: run - Test: 0
+INFO - START
+INFO - Path: ./pat_basic/1033.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1033.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1038.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1038.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1038.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1038.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1038.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1039.cpp - Command: run - Test: 0
+DEBUG - Case 0 Failed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1039.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1039.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1039.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_basic/1039.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
