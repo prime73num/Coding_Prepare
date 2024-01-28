@@ -61,3 +61,11 @@
 - Basic 1033 Accept
 - Basic 1038 Accept
 - Basic 1039 Accept 2024-01-27
+
+- Basic 1042 Accept
+- Basic 1043 Accept
+- Basic 1047 Accept
+- Advanced 1041 Accept
+- Advanced 1050 Accept
+- Basic 1023 Accept
+- Basic 1020 Accept 2024-01-28

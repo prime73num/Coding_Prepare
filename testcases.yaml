@@ -203,6 +203,32 @@ pat_basic:
         ppRYYGrrYBR2258
         YrR8RrY
       output: Yes 8
+  "1042": 
+    - input: |
+        This is a simple TEST.  There ARE numbers and other symbols 1&2&3...........
+      output: e 7
+  "1043": 
+    - input: redlesPayBestPATTopTeePHPereatitAPPT
+      output: PATestPATestPTetPTePePee
+  "1047": 
+    - input: |
+        6
+        3-10 99
+        11-5 87
+        102-1 0
+        102-3 100
+        11-9 89
+        3-2 61
+      output: 11 176
+  "1023": 
+    - input: 2 2 0 0 0 3 0 0 1 0
+      output: "10015558"
+  "1020": 
+    - input: |
+        3 20
+        18 15 10
+        75 72 45
+      output: "94.50"
 
   "0000": 
     - input: 
@@ -447,6 +473,14 @@ pat_advanced:
         Mike CS991301
         Mary EE990830
         Joe Math990112
+  "1041": 
+    - input: 7 5 31 5 88 67 88 17
+      output: "31\n"
+  "1050": 
+    - input: |
+        They are students.
+        aeiou
+      output: Thy r stdnts.
   "0000": 
     - input: 
       output:
