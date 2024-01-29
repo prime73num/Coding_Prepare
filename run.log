@@ -1043,3 +1043,37 @@ INFO - Path: ./pat_basic/1020.cpp - Command: run - Test: 0
 DEBUG - Case 0 Passed
 INFO - Clean
 INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1037.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1067.cpp - Command: run - Test: 0
+INFO - START
+INFO - Path: ./pat_advanced/1067.cpp - Command: run - Test: 0
+INFO - START
+INFO - Path: ./pat_basic/1020.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1067.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1067.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1067.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END
+INFO - START
+INFO - Path: ./pat_advanced/1067.cpp - Command: run - Test: 0
+DEBUG - Case 0 Passed
+INFO - Clean
+INFO - END

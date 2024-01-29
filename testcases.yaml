@@ -481,6 +481,30 @@ pat_advanced:
         They are students.
         aeiou
       output: Thy r stdnts.
+  "1033": 
+    - input: |
+        50 1300 12 8
+        6.00 1250
+        7.00 600
+        7.00 150
+        7.10 0
+        7.20 200
+        7.50 400
+        7.30 1000
+        6.85 300
+      output: "749.17"
+  "1037": 
+    - input: |
+        4
+        1 2 4 -1
+        4
+        7 6 -2 -3
+      output: "43"
+  "1067": 
+    - input: |
+        10
+        3 5 7 2 6 4 9 0 8 1
+      output: "9"
   "0000": 
     - input: 
       output:
