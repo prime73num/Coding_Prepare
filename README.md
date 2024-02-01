@@ -70,6 +70,13 @@
 - Basic 1023 Accept
 - Basic 1020 Accept 2024-01-28
 
-Advanced 1033 not
-Advanced 1037 Accept
-Advanced 1067 Accept
+- Advanced 1033 not
+- Advanced 1037 Accept
+- Advanced 1067 Accept
+
+- Advanced 1038 Accept attention
+- Basic 1030 Accept attention: (long long)的转换
+- Advanced 1010 not
+- Advanced 1044 Accept
+- Advanced 1048 Accept
+- Advanced 1029 Accept 2024-02-01
