@@ -80,3 +80,10 @@
 - Advanced 1044 Accept
 - Advanced 1048 Accept
 - Advanced 1029 Accept 2024-02-01
+
+Basic 1040 Accept
+Basic 1003 not
+Basic 1019 Accept
+Basic 1049 not
+Advanced 1008 Accept
+Advanced 1049 Accept 2024-02-02
