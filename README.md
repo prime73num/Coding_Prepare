@@ -81,9 +81,20 @@
 - Advanced 1048 Accept
 - Advanced 1029 Accept 2024-02-01
 
-Basic 1040 Accept
-Basic 1003 not
-Basic 1019 Accept
-Basic 1049 not
-Advanced 1008 Accept
-Advanced 1049 Accept 2024-02-02
+- Basic 1040 Accept
+- Basic 1003 not
+- Basic 1019 Accept
+- Basic 1049 not
+- Advanced 1008 Accept
+- Advanced 1049 Accept 2024-02-02
+
+- Advanced 1015
+- Advanced 1039
+- Advanced 1047
+- Advanced 1060
+- Advanced 1073
+- Advanced 1078
+- Advanced 1081
+- Basic 1007
+- Basic 1013
+- Basic 1014
