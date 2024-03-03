@@ -88,13 +88,17 @@
 - Advanced 1008 Accept
 - Advanced 1049 Accept 2024-02-02
 
-- Advanced 1015
-- Advanced 1039
-- Advanced 1047
-- Advanced 1060
-- Advanced 1073
-- Advanced 1078
-- Advanced 1081
-- Basic 1007
-- Basic 1013
-- Basic 1014
+- Advanced 1015 Accept
+- Advanced 1039 Accept
+- Advanced 1047 Accept
+- Advanced 1060 Accept
+- Advanced 1073 Accept
+- Advanced 1078 Accept
+- Advanced 1081 Accept
+- Advanced 1063 Accept
+- Basic 1007 Accept
+- Basic 1013 Accept
+- Basic 1014 Accept 2024-02-27
+
+- Advanced 1054
+- Advanced 1071
