@@ -3,16 +3,16 @@
 > Created Time: 2024-01-14  
 > Last Modified: 2024-01-14
 
-
 ## Leetcode Hot 100
 
 - 001 two sums Accept 2024-01-14
 
 ## PAT Basic
+
 - Basic 1001 3n+1
 - Basic 1011 Accept 2024-01-19
 
-- Basic 1016 Accept 
+- Basic 1016 Accept
 - Basic 1026 Accept
 - Basic 1046 Accept
 - Basic 1008 Accept
@@ -102,3 +102,19 @@
 
 - Advanced 1054
 - Advanced 1071
+
+- Leetcode hot 002 Accept
+- Leetcode hot 003 Accept
+- Leetcode hot 004 Accept
+- Leetcode hot 005 Accept
+- Leetcode hot 006 Accept
+- Leetcode hot 007 Accept
+- Leetcode hot 008 Accept 2024-03-03
+
+- Leetcode hot 009 Accept
+- Leetcode hot 010 Accept
+- Leetcode hot 011 Accept
+- Leetcode hot 012 Accept
+- Leetcode hot 013 Accept
+- Leetcode hot 014 Accept
+- Leetcode hot 015 Accept 2024-03-04

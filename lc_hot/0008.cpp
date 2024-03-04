@@ -1,32 +1,46 @@
 #include "stdc++.h"
-#include <algorithm>
+#include <unordered_map>
+#include <vector>
 
 using namespace std;
 
 class Solution {
 public:
-  int lengthOfLongestSubstring(string s) {
-    int ans = 0;
-    int start = 0, size = s.size(), end = 0;
-    unordered_map<char, int> pos;
-    while (start < size) {
-      bool find = false;
-      while (end < size) {
-        char t = s[end];
-        if (pos.find(t) == pos.end() || pos[t] < start) {
-          pos[s[end]] = end;
-          end++;
-          continue;
-        }
-        find = true;
-        break;
+  vector<int> findAnagrams(string s, string p) {
+    vector<int> ans;
+    unordered_map<char, int> p_count;
+    int count_zero = 0;
+    for (char c : p) {
+      if (!p_count.count(c)) {
+        p_count[c] = 0;
+        count_zero++;
       }
-      if (find) {
-        ans = max(ans, end - start);
-        start = pos[s[end]] + 1;
-      } else {
-        ans = max(ans, end - start);
-        break;
+      p_count[c]++;
+    }
+    int len = s.size();
+    if (len < p.size())
+      return ans;
+    for (int i = 0; i < p.size(); i++) {
+      char c = s[i];
+      if (p_count.count(c)) {
+        p_count[c]--;
+        if (p_count[c] == 0)
+          count_zero--;
+      }
+    }
+    for (int i = 0; i < len - p.size() + 1; i++) {
+      if (count_zero == 0)
+        ans.push_back(i);
+      if (p_count.count(s[i])) {
+        if (p_count[s[i]] == 0)
+          count_zero++;
+        p_count[s[i]]++;
+      }
+      char c = s[i + p.size()];
+      if (p_count.count(c)) {
+        p_count[c]--;
+        if (p_count[c] == 0)
+          count_zero--;
       }
     }
     return ans;

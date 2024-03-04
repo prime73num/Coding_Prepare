@@ -1,47 +1,21 @@
 #include "stdc++.h"
-#include <unordered_map>
-#include <vector>
-
 using namespace std;
 
 class Solution {
 public:
-  vector<int> findAnagrams(string s, string p) {
-    vector<int> ans;
-    unordered_map<char, int> p_count;
-    int count_zero = 0;
-    for (char c : p) {
-      if (!p_count.count(c)) {
-        p_count[c] = 0;
-        count_zero++;
-      }
-      p_count[c]++;
-    }
-    int len = s.size();
-    if (len < p.size())
-      return ans;
-    for (int i = 0; i < p.size(); i++) {
-      char c = s[i];
-      if (p_count.count(c)) {
-        p_count[c]--;
-        if (p_count[c] == 0)
-          count_zero--;
-      }
-    }
-    for (int i = 0; i < len - p.size() + 1; i++) {
-      if (count_zero == 0)
-        ans.push_back(i);
-      if (p_count.count(s[i])) {
-        if (p_count[s[i]] == 0)
-          count_zero++;
-        p_count[s[i]]++;
-      }
-      char c = s[i + p.size()];
-      if (p_count.count(c)) {
-        p_count[c]--;
-        if (p_count[c] == 0)
-          count_zero--;
-      }
+  int subarraySum(vector<int>& nums, int k) {
+    unordered_map<int, int> count;
+    int sum = 0, size = nums.size();
+    int ans = 0;
+    count[0] = 1;
+    for (int i = 0; i < size; i++) {
+      sum += nums[i];
+      int target = sum - k;
+      if (count.count(target))
+        ans += count[target];
+      if (!count.count(sum))
+        count[sum] = 0;
+      count[sum]++;
     }
     return ans;
   }
