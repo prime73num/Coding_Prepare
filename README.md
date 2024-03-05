@@ -118,3 +118,11 @@
 - Leetcode hot 013 Accept
 - Leetcode hot 014 Accept
 - Leetcode hot 015 Accept 2024-03-04
+
+- Leetcode hot 016 Accept
+- Leetcode hot 017 Accept
+- Leetcode hot 018 Accept
+- Leetcode hot 019 Accept
+- Leetcode hot 020 Accept
+- Leetcode hot 021 Accept
+- Leetcode hot 022 Accept 2024-03-05
