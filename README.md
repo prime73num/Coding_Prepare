@@ -134,3 +134,12 @@
 - Leetcode hot 027 Accept
 - Leetcode hot 028 Accept
 - Leetcode hot 029 Accept 2024-03-06
+
+- Leetcode hot 031 Accept
+- Leetcode hot 032 Accept
+- Leetcode hot 033 Accept
+- Leetcode hot 034 Accept
+- Leetcode hot 035 Accept
+- Leetcode hot 036 Accept
+- Leetcode hot 037 Accept 2024-03-08
+
