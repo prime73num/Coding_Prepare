@@ -141,5 +141,13 @@
 - Leetcode hot 034 Accept
 - Leetcode hot 035 Accept
 - Leetcode hot 036 Accept
-- Leetcode hot 037 Accept 2024-03-08
+- Leetcode hot 037 Accept 2024-03-07
 
+
+- Leetcode hot 038 Accept
+- Leetcode hot 039 Accept
+- Leetcode hot 040 Accept
+- Leetcode hot 041 Accept
+- Leetcode hot 042 Accept
+- Leetcode hot 043 Accept
+- Leetcode hot 044 Accept 2024-03-08
