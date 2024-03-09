@@ -151,3 +151,11 @@
 - Leetcode hot 042 Accept
 - Leetcode hot 043 Accept
 - Leetcode hot 044 Accept 2024-03-08
+
+- Leetcode hot 045 Accept
+- Leetcode hot 046 Accept
+- Leetcode hot 047 Accept
+- Leetcode hot 048 Accept
+- Leetcode hot 049 Accept
+- Leetcode hot 050 Accept
+- Leetcode hot 051 Accept 2024-03-09
