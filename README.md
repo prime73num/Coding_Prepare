@@ -159,3 +159,10 @@
 - Leetcode hot 049 Accept
 - Leetcode hot 050 Accept
 - Leetcode hot 051 Accept 2024-03-09
+
+- Leetcode hot 052 Accept
+- Leetcode hot 053 Accept
+- Leetcode hot 054 Accept
+- Leetcode hot 055 Accept
+- Leetcode hot 056 Accept
+- Leetcode hot 057 Accept 2024-03-10
